@@ -32,7 +32,7 @@ Despite a thriving company culture, **INX** has observed a **decline in employee
   [View full notebook here](https://colab.research.google.com/drive/1vhvW9R7sDLYAKj1x2DKFIXYLzOltbSzG?usp=sharing)
 
 * 📑 **Detailed Analysis Report**:
-  [Access the full report here](https://www.canva.com/design/DAGm4BXrZic/XiQMjaRJ1iWhhSAYt6aUSw/edit?ui=eyJIIjp7IkEiOnRydWV9fQ&fbclid=IwY2xjawKRmZtleHRuA2FlbQIxMABicmlkETFFdjF4c0h3clFLUjdHS2h5AR7SSmyS3FDadLyVr1U_QL50fIpBGybFRDKIC-gzDbtkhKWsPAcnpGFg398WKw_aem_32ErDi3UDKvu6Gk4ZL0Ysw)
+  [Access the full report here](https://github.com/cuongdaoo/HR-Analytics-Performance-Forecasting/blob/main/Report.pdf)
 
 ---
 
